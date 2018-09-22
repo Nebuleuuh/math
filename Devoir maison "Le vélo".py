@@ -2,12 +2,7 @@ prix = 25
 client = 100
 recette = 0
 
-# Il faut faire un while qui rajoute 0,5 au prix
-# A chaque 0,5 ajouté il faut retirer 1 client
-# Et à chaque fois il faut les faire se multiplier (dans le genre : prix * nombre_client)
-
 maliste = []
-
 
 while client > 1:
     prix = prix + 0.5
