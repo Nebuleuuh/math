@@ -1,2 +1,2 @@
-# math
-Lycée, math. 
+# Répertoire math 
+Lycée, math : DM, exercice et cætera.
