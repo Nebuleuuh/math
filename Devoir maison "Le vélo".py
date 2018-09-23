@@ -8,7 +8,7 @@ while client > 1:
     prix = prix + 0.5
     client = client - 1
     recette = prix * client
-    print("Pour", client,"le prix d'un vélo sera : ", prix, "et la recette totale sera : ",recette)
+    print("Pour", clients,"client","le prix d'un vélo sera : ", prix, "et la recette totale sera : ",recette)
     maliste.append(recette)
 print(max(maliste))
 
